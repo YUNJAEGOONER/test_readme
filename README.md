@@ -1,7 +1,7 @@
 # Team2
 
 <p align="center">
-<img src="[docs/LogoTitle-Orange.png](https://github.com/YUNJAEGOONER/test_readme/issues/1#issue-2455495258)" alt="Logo" width="70%"/>
+<img src="https://github.com/YUNJAEGOONER/test_readme/issues/1#issue-2455495258" alt="Logo" width="70%"/>
 </p>
 
 
