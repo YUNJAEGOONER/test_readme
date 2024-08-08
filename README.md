@@ -1,7 +1,7 @@
 # 🦁Team2💻
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d5a8dfd8-2f97-425b-adc7-c56b76dbf760" alt="Logo"/>
+  <img src="https://github.com/user-attachments/assets/fb14f77e-1cef-4c80-993e-6e54291bdece" alt="Logo"/>
 </p>
 
 <p align="center">부산대학교 미니부트캠프 백엔드 with 멋쟁이사자처럼 (24.07.29 ~ 08.09)</p>
@@ -20,7 +20,7 @@
 
 + [점프 투 스프링 부트](https://wikidocs.net/book/7601)를 활용한 에브리타임 클론 코딩 
 +  클론코딩을 통한 백엔드 기초 학습
-+ 깃허브와 피그마 기반의 협업 향상
++ 깃허브와 피그마 기반의 협업 능력 향상
 
 ## Tech Stack
 
@@ -46,11 +46,11 @@
 + ID/PW 기반 인증
 + 프로필 조회
 + 사용자가 게시한 게시글 및 댓글 조회
-+ 계정 비밀 번호 변경
++ 계정 비밀번호 변경
 
 ###  홈화면
 
-+ 핫 게시판 제공
++ HOT 게시판 제공
 + 월간 일정 제공
 
 ###  게시판 및 댓글
@@ -71,16 +71,6 @@
 마이 페이지에서 내가 쓴 글을 조회할 수 있습니다. 회원 가입 시 사용했던 아이디와 이메일을 볼 수 있습니다.
 
 전체 게시글을 조회할 수 있고 검색을 통해 글을 찾을 수 있습니다.
-
-## 기능 설명-수정
-
-| 설명                                                         | 이미지                                                       |
-|------------------------------------------------------------|------------------------------------------------------------|
-| **진첸코 선수**: 우크라이나 출신의 축구 선수로, 주로 왼쪽 수비수로 활약하고 있습니다. | ![진첸코](https://i.namu.wiki/i/oiP4wDOG2eAquX5FK5tcZpeiL55F99OVssQjRnTmBkTfSMew3KCtid2ePPzS-SGMsp5Tux1HnVdFRquUcZ5ysT3ZPbC6SgpKlQXnaDo-Xx9xIGiPbA6h2VDUymWX5WLzJWGFjXnwpz7Q-kzVUNBQKg.webp) |
-| **케빈 데 브라이너**: 벨기에 출신의 축구 선수로, 중원에서 뛰어난 패스 능력을 자랑합니다. | ![데 브라이너](https://i.namu.wiki/i/ajBGLfgg_1vigGDxLJB-tJ2eQJHB2PMcgdmYhuV1mRv2ILfL256C1R4J0BDysmujDckJhp3uje6_N9suuaUnxA.webp) |
-| **하베르츠 선수**: 독일 출신의 축구 선수로, 공격형 미드필더로 뛰어난 기량을 보입니다. | ![하베르츠](https://images.khan.co.kr/article/2023/12/06/news-p.v1.20231205.a84bb3c5cf304f0393f6d8e65fd09aa2_P1.jpg) |
-| **외데고르 선수**: 노르웨이 출신의 축구 선수로, 창의적인 미드필더로 잘 알려져 있습니다. | ![외데고르](https://cdn.ardentnews.co.kr/news/photo/202309/1409_5154_144.png) |
-| **손흥민 선수**: 대한민국 출신의 축구 선수로, 빠른 스피드와 뛰어난 골 감각으로 유명합니다. | ![손흥민](https://img.kbs.co.kr/kbs/620/news.kbs.co.kr/data/fckeditor/new/image/2024/04/01/303281711953532160.jpeg) |
 
 ## 시연 영상
 
