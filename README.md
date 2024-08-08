@@ -1,7 +1,7 @@
 # Team2
 
 <p align="center">
-![title](https://github.com/user-attachments/assets/6b3d7543-f17d-43cb-aeb8-77cb08fcb2b2)
+  <img src="https://github.com/user-attachments/assets/6b3d7543-f17d-43cb-aeb8-77cb08fcb2b2" alt="Logo" width="70%"/>
 </p>
 
 
