@@ -72,6 +72,16 @@
 
 전체 게시글을 조회할 수 있고 검색을 통해 글을 찾을 수 있습니다.
 
+## 기능 설명-수정
+
+| 설명                                                         | 이미지                                                       |
+|------------------------------------------------------------|------------------------------------------------------------|
+| **진첸코 선수**: 우크라이나 출신의 축구 선수로, 주로 왼쪽 수비수로 활약하고 있습니다. | ![진첸코](https://i.namu.wiki/i/oiP4wDOG2eAquX5FK5tcZpeiL55F99OVssQjRnTmBkTfSMew3KCtid2ePPzS-SGMsp5Tux1HnVdFRquUcZ5ysT3ZPbC6SgpKlQXnaDo-Xx9xIGiPbA6h2VDUymWX5WLzJWGFjXnwpz7Q-kzVUNBQKg.webp) |
+| **케빈 데 브라이너**: 벨기에 출신의 축구 선수로, 중원에서 뛰어난 패스 능력을 자랑합니다. | ![데 브라이너](https://i.namu.wiki/i/ajBGLfgg_1vigGDxLJB-tJ2eQJHB2PMcgdmYhuV1mRv2ILfL256C1R4J0BDysmujDckJhp3uje6_N9suuaUnxA.webp) |
+| **하베르츠 선수**: 독일 출신의 축구 선수로, 공격형 미드필더로 뛰어난 기량을 보입니다. | ![하베르츠](https://images.khan.co.kr/article/2023/12/06/news-p.v1.20231205.a84bb3c5cf304f0393f6d8e65fd09aa2_P1.jpg) |
+| **외데고르 선수**: 노르웨이 출신의 축구 선수로, 창의적인 미드필더로 잘 알려져 있습니다. | ![외데고르](https://cdn.ardentnews.co.kr/news/photo/202309/1409_5154_144.png) |
+| **손흥민 선수**: 대한민국 출신의 축구 선수로, 빠른 스피드와 뛰어난 골 감각으로 유명합니다. | ![손흥민](https://img.kbs.co.kr/kbs/620/news.kbs.co.kr/data/fckeditor/new/image/2024/04/01/303281711953532160.jpeg) |
+
 ## 시연 영상
 
 유투브 링크
