@@ -1,10 +1,10 @@
 # Team2
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6b3d7543-f17d-43cb-aeb8-77cb08fcb2b2" alt="Logo"/>
+  <img src="https://github.com/user-attachments/assets/d5a8dfd8-2f97-425b-adc7-c56b76dbf760" alt="Logo"/>
 </p>
 
-<p align="center">부산대학교 미니부트캠프 백엔드(24.07.29 ~ 08.09)</p>
+<p align="center">부산대학교 미니부트캠프 백엔드 with 멋쟁이사자처럼 (24.07.29 ~ 08.09)</p>
 
 ## 팀원
 
@@ -22,16 +22,13 @@
 +  클론코딩을 통한 백엔드 기초 학습
 + 깃허브와 피그마 기반의 협업 향상
 
-
 ## Tech Stack
 
 <div align="center">
-
+  
 ![java ](https://img.shields.io/badge/-Java%20-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![spring boot](https://img.shields.io/badge/Spring%20boot%20-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![thymeleaf1.28.0](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-
-
 
 ![thymeleaf1.28.0](https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 ![daisyu](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
@@ -42,7 +39,6 @@
 </div>
 
 ## 주요 기능
-
 개발한 주요 기능들을 서술합니다.
 
 ### 인증
