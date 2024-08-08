@@ -1,7 +1,7 @@
 # Team2
 
 <p align="center">
-    <img src="docs/LogoTitle-Orange.png" alt="Logo" width="70%"/>
+![제목 없음](https://github.com/user-attachments/assets/9314eddb-3948-4a4d-95bf-2e64984d4dc8)
 </p>
 
 <p align="center">부산대학교 미니부트캠프(24.07.29 ~ 08.09)</p>
