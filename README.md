@@ -9,8 +9,9 @@
 ## 팀원
 
 <div align="center">
+
 | [이윤재](https://github.com/YUNJAEGOONER) | [문진혁](https://github.com/wlsgur11) | [윤주연](https://github.com/starringg) | [이재훈](https://github.com/DAN-MU-ZI) |
-| :----------------------------------------: | :------------------------------------: | :-------------------------------------: | :-----------------------------------: |
+| :-----------------------------------------: | :------------------------------------: | :------------------------------------: | :------------------------------------: |
 | <img src="https://github.com/YUNJAEGOONER.png" width="100"> | <img src="https://github.com/wlsgur11.png" width="100"> | <img src="https://github.com/starringg.png" width="100"> | <img src="https://github.com/DAN-MU-ZI.png" width="100"> |
 
 </div>
