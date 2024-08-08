@@ -1,7 +1,7 @@
 # Team2
 
 <p align="center">
-![제목 없음](https://github.com/user-attachments/assets/f607bac1-1786-480b-9ac5-061397ac38df)
+![title](https://github.com/user-attachments/assets/6b3d7543-f17d-43cb-aeb8-77cb08fcb2b2)
 </p>
 
 
