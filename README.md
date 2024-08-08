@@ -1,22 +1,17 @@
 # Team2
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6b3d7543-f17d-43cb-aeb8-77cb08fcb2b2" alt="Logo" width="70%"/>
+  <img src="https://github.com/user-attachments/assets/6b3d7543-f17d-43cb-aeb8-77cb08fcb2b2" alt="Logo"/>
 </p>
 
-
-
-<p align="center">부산대학교 미니부트캠프(24.07.29 ~ 08.09)</p>
+<p align="center">부산대학교 미니부트캠프 백엔드(24.07.29 ~ 08.09)</p>
 
 ## 팀원
 
 <div align="center">
-
-|                                               |                                        |                                               |                                        |
-| :----------------------------------------------------: | :-----------------------------------------------------: | :------------------------------------------------------: | :---------------------------------------------------: |
-|          [이윤재](https://github.com/YUNJAEGOONER)          |          [문진혁](https://github.com/wlsgur11)          |          [윤주연](https://github.com/starringg)          |          [이재훈](https://github.com/DAN-MU-ZI)          |
+| [이윤재](https://github.com/YUNJAEGOONER) | [문진혁](https://github.com/wlsgur11) | [윤주연](https://github.com/starringg) | [이재훈](https://github.com/DAN-MU-ZI) |
+| :----------------------------------------: | :------------------------------------: | :-------------------------------------: | :-----------------------------------: |
 | <img src="https://github.com/YUNJAEGOONER.png" width="100"> | <img src="https://github.com/wlsgur11.png" width="100"> | <img src="https://github.com/starringg.png" width="100"> | <img src="https://github.com/DAN-MU-ZI.png" width="100"> |
-
 </div>
 
 ## 개발 목표
