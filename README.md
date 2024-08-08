@@ -1,7 +1,7 @@
 # Team2
 
 <p align="center">
-<img src="https://github.com/YUNJAEGOONER/test_readme/issues/1#issue-2455495258" alt="Logo" width="70%"/>
+![제목 없음](https://github.com/user-attachments/assets/f607bac1-1786-480b-9ac5-061397ac38df)
 </p>
 
 
